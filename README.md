@@ -22,19 +22,18 @@ Analysis to find Social Buzz's top 5 most popular categories of content.
 ## Skills
 Following are the skills involved in this whole simulation project. SQL can be used to join the tables and find the insights required. The same can be done with excel as well. I'll recomment to try both. Power Query can be utilized for data modelling and we can create report for the insight using Power BI/ Excel/ SQL
 
--Extra: MS Excel/Power BI/SQL 
--Communication
--Data Analysis 
--Data Modeling
--Data Understanding
--Data Visualization
--Presentations
--Project Planning
--Public Speaking
--Storytelling
--Strategy
--Teamwork
-
+- Extra: MS Excel/Power BI/SQL 
+- Communication
+- Data Analysis 
+- Data Modeling
+- Data Understanding
+- Data Visualization
+- Presentations
+- Project Planning
+- Public Speaking
+- Storytelling
+- Strategy
+- Teamwork
 
 ## Project Data Cleaning Approach Followed:
 1. **Data Understanding:**  
