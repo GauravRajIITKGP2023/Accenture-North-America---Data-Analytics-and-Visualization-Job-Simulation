@@ -19,13 +19,22 @@ This project leverages Accenture’s industry expertise to help Social Buzz scal
 ## Problem Identification
 Analysis to find Social Buzz's top 5 most popular categories of content.
 
-## Project Recap
+## Skills
+Following are the skills involved in this whole simulation project. SQL can be used to join the tables and find the insights required. The same can be done with excel as well. I'll recomment to try both. Power Query can be utilized for data modelling and we can create report for the insight using Power BI/ Excel/ SQL
 
-Social Buzz is a fast-growing technology unicorn that needs to adapt quickly to its global scale. Accenture has begun a 3-month POC focusing on these tasks:
+-Extra: MS Excel/Power BI/SQL 
+-Communication
+-Data Analysis 
+-Data Modeling
+-Data Understanding
+-Data Visualization
+-Presentations
+-Project Planning
+-Public Speaking
+-Storytelling
+-Strategy
+-Teamwork
 
-- An audit of Social Buzz's big data practice
-- Recommendations for a successful IPO
-- Analysis to find Social Buzz's top 5 most popular categories of content
 
 ## Project Data Cleaning Approach Followed:
 1. **Data Understanding:**  
