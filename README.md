@@ -1,5 +1,5 @@
 # Accenture-North-America---Data-Analytics-and-Visualization-Job-Simulation
-
+Please read and have a look to client's brief pdf , Internal stakeholder chart, Data model and the relevant data provided before proceeding further for a better understaning of this simulation solution.
 ## Project Description
 **Overview:**  
 This project is a 3-month pilot collaboration between Accenture and Social Buzz. The main goal is to enhance Social Buzz’s operations and prepare them for future growth.
