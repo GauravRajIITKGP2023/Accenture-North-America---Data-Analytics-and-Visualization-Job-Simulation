@@ -55,5 +55,5 @@ Following are the skills involved in this whole simulation project. SQL can be u
 Animals and science are the two most popular categories of content, showing that people enjoy "real-life" and "factual" content the most.
 
 ## Insight
-Food is a common theme with the top 5 categories, with "Healthy Eating" ranking the highest. This may give an indication of the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
+Food is a common theme with the top 5 categories, with "Healthy Eating" ranking the highest. This may give an indication of the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement
 
